@@ -141,7 +141,7 @@
             this.btnRefresh.Name = "btnRefresh";
             this.btnRefresh.Size = new System.Drawing.Size(84, 38);
             this.btnRefresh.TabIndex = 8;
-            this.btnRefresh.Text = "更新时间";
+            this.btnRefresh.Text = "更新时间(H)";
             this.btnRefresh.UseVisualStyleBackColor = true;
             this.btnRefresh.Click += new System.EventHandler(this.btnRefresh_Click);
             // 
@@ -241,8 +241,8 @@
             this.ctcheck.Checked = true;
             this.ctcheck.CheckState = System.Windows.Forms.CheckState.Checked;
             this.ctcheck.Name = "ctcheck";
-            this.ctcheck.Size = new System.Drawing.Size(190, 24);
-            this.ctcheck.Text = "CPU温度(CT)";
+            this.ctcheck.Size = new System.Drawing.Size(175, 24);
+            this.ctcheck.Text = "CPU温度(A)";
             this.ctcheck.Click += new System.EventHandler(this.ctcheck_Click);
             // 
             // cpuoccheck
@@ -250,8 +250,8 @@
             this.cpuoccheck.Checked = true;
             this.cpuoccheck.CheckState = System.Windows.Forms.CheckState.Checked;
             this.cpuoccheck.Name = "cpuoccheck";
-            this.cpuoccheck.Size = new System.Drawing.Size(190, 24);
-            this.cpuoccheck.Text = "CPU占用率(CO)";
+            this.cpuoccheck.Size = new System.Drawing.Size(175, 24);
+            this.cpuoccheck.Text = "CPU占用率(B)";
             this.cpuoccheck.Click += new System.EventHandler(this.cpuoccheck_Click);
             // 
             // memtotalcheck
@@ -259,8 +259,8 @@
             this.memtotalcheck.Checked = true;
             this.memtotalcheck.CheckState = System.Windows.Forms.CheckState.Checked;
             this.memtotalcheck.Name = "memtotalcheck";
-            this.memtotalcheck.Size = new System.Drawing.Size(190, 24);
-            this.memtotalcheck.Text = "总内存(TM)";
+            this.memtotalcheck.Size = new System.Drawing.Size(175, 24);
+            this.memtotalcheck.Text = "总内存(C)";
             this.memtotalcheck.Click += new System.EventHandler(this.memtotalcheck_Click);
             // 
             // memavailcheck
@@ -268,8 +268,8 @@
             this.memavailcheck.Checked = true;
             this.memavailcheck.CheckState = System.Windows.Forms.CheckState.Checked;
             this.memavailcheck.Name = "memavailcheck";
-            this.memavailcheck.Size = new System.Drawing.Size(190, 24);
-            this.memavailcheck.Text = "可用内存(AM)";
+            this.memavailcheck.Size = new System.Drawing.Size(175, 24);
+            this.memavailcheck.Text = "可用内存(D)";
             this.memavailcheck.Click += new System.EventHandler(this.memavailcheck_Click);
             // 
             // memoccucheck
@@ -277,8 +277,8 @@
             this.memoccucheck.Checked = true;
             this.memoccucheck.CheckState = System.Windows.Forms.CheckState.Checked;
             this.memoccucheck.Name = "memoccucheck";
-            this.memoccucheck.Size = new System.Drawing.Size(190, 24);
-            this.memoccucheck.Text = "内存使用率(MO)";
+            this.memoccucheck.Size = new System.Drawing.Size(175, 24);
+            this.memoccucheck.Text = "内存使用率(E)";
             this.memoccucheck.Click += new System.EventHandler(this.memoccucheck_Click);
             // 
             // dncheck
@@ -286,8 +286,8 @@
             this.dncheck.Checked = true;
             this.dncheck.CheckState = System.Windows.Forms.CheckState.Checked;
             this.dncheck.Name = "dncheck";
-            this.dncheck.Size = new System.Drawing.Size(190, 24);
-            this.dncheck.Text = "下载速度(DS)";
+            this.dncheck.Size = new System.Drawing.Size(175, 24);
+            this.dncheck.Text = "下载速度(F)";
             this.dncheck.Click += new System.EventHandler(this.dncheck_Click);
             // 
             // upcheck
@@ -295,8 +295,8 @@
             this.upcheck.Checked = true;
             this.upcheck.CheckState = System.Windows.Forms.CheckState.Checked;
             this.upcheck.Name = "upcheck";
-            this.upcheck.Size = new System.Drawing.Size(190, 24);
-            this.upcheck.Text = "上传速度(US)";
+            this.upcheck.Size = new System.Drawing.Size(175, 24);
+            this.upcheck.Text = "上传速度(G)";
             this.upcheck.Click += new System.EventHandler(this.upcheck_Click);
             // 
             // btnsave

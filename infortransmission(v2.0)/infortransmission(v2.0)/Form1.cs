@@ -422,7 +422,7 @@ namespace infortransmission_v2._0_
 
         private void btnUsage_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("详细使用说明请移步我的博客：https://www.mech-elab.ml/", "使用说明");
+            MessageBox.Show("详细使用说明请移步我的帖子：http://bbs.mydigit.cn/read.php?tid=1785154", "使用说明");
         }
 
         private void TimerSend_Tick(object sender, EventArgs e)
@@ -452,8 +452,9 @@ namespace infortransmission_v2._0_
                             }
                             else
                             {
-                                if (cpuoccu) { sp.Write("A" + (int)cpuLoad + "@"); }          //保留整数部分 或者.ToString("#.##")
-                                if (cputem) { sp.Write("B" + temp.ToString() + "@"); }
+                               
+                                if (cputem) { sp.Write("A" + temp.ToString() + "@"); }
+                                if (cpuoccu) { sp.Write("B" + (int)cpuLoad + "@"); }          //保留整数部分 或者.ToString("#.##")
                                 if (memtot) { sp.Write("C" + xx + "@"); }
                                 if (memavail) { sp.Write("D" + availablebytes + "@"); }
                                 if (memoccu) { sp.Write("E" + (int)taken + "@"); }
