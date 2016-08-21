@@ -1,0 +1,9 @@
+D:\学习\C#学习\programs\infortransmission\infortransmission(v2.0)\infortransmission(v2.0)\infortransmission(v2.0)\bin\x86\Debug\infortransmission(v2.0).exe.config
+D:\学习\C#学习\programs\infortransmission\infortransmission(v2.0)\infortransmission(v2.0)\infortransmission(v2.0)\bin\x86\Debug\infortransmission(v2.0).exe
+D:\学习\C#学习\programs\infortransmission\infortransmission(v2.0)\infortransmission(v2.0)\infortransmission(v2.0)\bin\x86\Debug\infortransmission(v2.0).pdb
+D:\学习\C#学习\programs\infortransmission\infortransmission(v2.0)\infortransmission(v2.0)\infortransmission(v2.0)\bin\x86\Debug\NetworkMonitor.dll
+D:\学习\C#学习\programs\infortransmission\infortransmission(v2.0)\infortransmission(v2.0)\infortransmission(v2.0)\obj\x86\Debug\infortransmission_v2._0_.Form1.resources
+D:\学习\C#学习\programs\infortransmission\infortransmission(v2.0)\infortransmission(v2.0)\infortransmission(v2.0)\obj\x86\Debug\infortransmission_v2._0_.Properties.Resources.resources
+D:\学习\C#学习\programs\infortransmission\infortransmission(v2.0)\infortransmission(v2.0)\infortransmission(v2.0)\obj\x86\Debug\infortransmission(v2.0).csproj.GenerateResource.Cache
+D:\学习\C#学习\programs\infortransmission\infortransmission(v2.0)\infortransmission(v2.0)\infortransmission(v2.0)\obj\x86\Debug\infortransmission(v2.0).exe
+D:\学习\C#学习\programs\infortransmission\infortransmission(v2.0)\infortransmission(v2.0)\infortransmission(v2.0)\obj\x86\Debug\infortransmission(v2.0).pdb
